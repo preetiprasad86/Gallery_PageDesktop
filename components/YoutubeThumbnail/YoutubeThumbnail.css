@@ -1,0 +1,11 @@
+.youtube-thumbnail {
+  align-items: center;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 280px;
+  justify-content: flex-end;
+  min-width: 411px;
+  padding: 0 165px;
+  position: relative;
+}

@@ -1,0 +1,36 @@
+.address-1 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 5px;
+  min-height: 28px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.group-162 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 97px;
+  width: 415px;
+}
+.text {
+  height: 64px;
+  letter-spacing: 0;
+  line-height: 32px;
+  min-height: 64px;
+  mix-blend-mode: normal;
+  width: 413px;
+}
+.youtube-card {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 393px;
+  position: relative;
+  width: 411px;
+}
+.youtube-card.youtube-card-1 {
+  margin-top: 24px;
+}

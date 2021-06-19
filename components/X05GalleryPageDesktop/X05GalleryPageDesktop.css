@@ -1,0 +1,244 @@
+.address {
+  height: 28px;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+.bigrid-3x2-gap {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-bottom: 243.65px;
+  margin-left: 219px;
+  mix-blend-mode: normal;
+  padding: 3.6px 1px;
+  width: 16px;
+}
+.bigrid-3x2-gap-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 23px;
+  margin-bottom: 53.52px;
+  margin-left: 50px;
+  mix-blend-mode: normal;
+  padding: 4.2px 1px;
+  width: 16px;
+}
+.chevronleftblack24dp-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 10px;
+  margin-left: 117px;
+  mix-blend-mode: normal;
+  padding: 2.1px 13.0px;
+  width: 40px;
+}
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1227px;
+  position: relative;
+  width: 411px;
+}
+.flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 1307px;
+  position: relative;
+  width: 411px;
+}
+.flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 1227px;
+  position: relative;
+  width: 411px;
+}
+.frame-1568 {
+  align-items: flex-start;
+  display: flex;
+  height: 1307px;
+  left: 85px;
+  min-width: 1281px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 896px;
+}
+.frame-1576 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 2489px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 1450px;
+}
+.group {
+  background-size: 100% 100%;
+  height: 13px;
+  width: 14px;
+}
+.group-182 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 556px;
+  position: absolute;
+  top: 100px;
+  width: 1456px;
+}
+.group-89 {
+  align-items: center;
+  display: flex;
+  height: 2145px;
+  justify-content: flex-end;
+  left: 85px;
+  min-width: 1280px;
+  opacity: 0.04;
+  position: absolute;
+  top: 0;
+}
+.latest-videos {
+  color: var(--white);
+  height: 28px;
+  left: 186px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+}
+.line {
+  height: 2145px;
+  margin-left: 319px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-4 {
+  height: 2145px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-8 {
+  height: 2145px;
+  margin-left: 17px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.overlap-group {
+  height: 2489px;
+  position: relative;
+  width: 1450px;
+}
+.overlap-group1 {
+  height: 2203px;
+  margin-left: 6.0px;
+  position: relative;
+  width: 1456px;
+}
+.overlap-group2 {
+  background-color: var(--black);
+  height: 469px;
+  margin-top: 77px;
+  position: relative;
+  width: 1450px;
+}
+.overlap-group4 {
+  height: 6px;
+  position: relative;
+  width: 13px;
+}
+.rectangle-81 {
+  height: 469px;
+  left: 85px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+.rectangle-82 {
+  background-color: var(--black);
+  height: 469px;
+  left: 85px;
+  mix-blend-mode: multiply;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+.text-1 {
+  height: 112px;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 296px;
+  width: 777px;
+}
+.text-38 {
+  color: var(--black);
+  left: 193px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 696px;
+  width: 1057px;
+}
+.title {
+  color: var(--black);
+  font-weight: 800;
+  height: 32px;
+  left: 477px;
+  line-height: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  white-space: nowrap;
+  width: 418px;
+}
+.vector {
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+.vector-1 {
+  height: 6px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+.vector-2 {
+  height: 14px;
+  mix-blend-mode: normal;
+  width: 14px;
+}
+.x05-gallery-page-desktop {
+  align-items: flex-start;
+  background-color: var(--desert-storm);
+  display: flex;
+  height: 2627px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 1440px;
+}
